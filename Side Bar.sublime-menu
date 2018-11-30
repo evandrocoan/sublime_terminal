@@ -1,4 +1,15 @@
 [
-    { "caption": "-", "id": "11_row" },
+    { "caption": "-", "id": "1_row" },
+    { "caption": "-", "id": "2_row" },
     { "caption": "Open Terminal Here…", "command": "open_terminal", "args": {"paths": []} },
+    { "caption": "-", "id": "3_row" },
+    { "caption": "-", "id": "4_row" },
+    { "caption": "-", "id": "5_row" },
+    { "caption": "-", "id": "6_row" },
+    { "caption": "-", "id": "7_row" },
+    { "caption": "-", "id": "8_row" },
+    { "caption": "-", "id": "9_row" },
+    { "caption": "-", "id": "10_row" },
+    { "caption": "-", "id": "11_row" },
+    { "caption": "-", "id": "12_row" },
 ]
